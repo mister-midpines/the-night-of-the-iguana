@@ -1,5 +1,0 @@
-# netlify.toml
-
-[functions."trigger-github-action"]
-  # Cron schedule for every 30 minutes
-  schedule = "*/30 * * * *" 
